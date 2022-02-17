@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "empresas",
+  "info": {
+    "singularName": "empresa",
+    "pluralName": "empresas",
+    "displayName": "Empresa",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "NomeFantasia": {
+      "type": "string"
+    },
+    "Razaosocial": {
+      "type": "string"
+    },
+    "cnpj": {
+      "type": "string"
+    }
+  }
+}
